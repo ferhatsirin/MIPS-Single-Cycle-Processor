@@ -1,5 +1,5 @@
 README!!!
-- Instructions that you have to implement: sw, lw, beq, j, add, andi, slt, slti
+- Instructions that is implemented: add, addu, and, jr, nor, or, slt, sltu, srl, sra, sub, subu jump, jal addi, addiu, andi, beq, bneq, ll, lui, lw, ori, slti, sltui, sw
 
 - Top Level Design File: mips_core
 
